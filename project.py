@@ -23,7 +23,7 @@ st.sidebar.write("Decision Tree : 0.6656534954407295")
 st.sidebar.write("Random Forest: 0.7659574468085106")
 st.sidebar.write("MLP Classifier : 0.78125")
 st.sidebar.write("CNN Model: 0.819047619047619")
-st.sidebar.write("BERT(finetuned):0.92.7")
+st.sidebar.write("BERT(finetuned):0.927")
 
 st.sidebar.header("Upload Audio")
 audio_file = st.sidebar.file_uploader("Browse", type=["wav"])
